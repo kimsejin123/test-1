@@ -47,5 +47,5 @@ function add(x,y) { return x+y; }
 [용인예술과학대학교](http://www.ysc.ac.kr)
 링크2
 
-![새로운 이미지](./images/test.png)
+![새로운 이미지](./images/test.PNG)
 이미지
